@@ -13,7 +13,7 @@
     "firebase-admin": "^9.0.0",
     "forever": "^1.0.0",
     "google-auth-library": "^6.0.5",
-    "xlsx": "^0.15.4"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
